@@ -1,0 +1,14 @@
+# Python 虚拟环境（每台电脑应单独创建）
+.venv/
+**/.venv/
+
+# Python 运行时缓存
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# 常见编辑器与系统临时文件
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
