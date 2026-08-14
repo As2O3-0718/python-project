@@ -1,0 +1,4 @@
+process,sample_count,average_hardness_hv,max_hardness_hv
+annealed,2,144.0,146.0
+quenched,2,221.0,224.0
+tempered,2,188.0,191.0

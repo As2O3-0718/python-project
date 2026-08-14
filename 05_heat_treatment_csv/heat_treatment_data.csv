@@ -1,0 +1,7 @@
+sample_id,process,temperature_c,hardness_hv
+HT01,annealed,650,142
+HT02,annealed,650,146
+HT03,quenched,850,218
+HT04,quenched,850,224
+HT05,tempered,500,185
+HT06,tempered,500,191
