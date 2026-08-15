@@ -1,0 +1,4 @@
+sample_id,alloy,carbon_pct,chromium_pct,hardness_hv,missing_fields
+S03,Steel-A,,1.1,208.0,1
+S06,Steel-B,0.36,,251.0,1
+S07,Steel-B,0.31,1.48,,1

@@ -1,0 +1,5 @@
+sample_id,alloy,carbon_pct,chromium_pct,hardness_hv
+S01,Steel-A,0.18,1.05,205.0
+S02,Steel-A,0.22,0.96,212.0
+S04,Steel-B,0.34,1.42,246.0
+S05,Steel-B,0.39,1.55,258.0
