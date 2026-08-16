@@ -1,0 +1,3 @@
+sample_id,alloy,batch,yield_strength_mpa,tensile_strength_mpa,elongation_pct,yield_ratio,performance_pass,failure_reason
+T02,Al-6061,A,238.00,302.00,11.80,0.79,False,"['tensile_strength_mpa', 'elongation_pct']"
+T07,Steel-Q,D,510.00,640.00,12.00,0.80,False,"['tensile_strength_mpa', 'elongation_pct']"

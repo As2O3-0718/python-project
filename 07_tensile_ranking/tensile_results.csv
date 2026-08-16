@@ -1,0 +1,10 @@
+sample_id,alloy,batch,yield_strength_mpa,tensile_strength_mpa,elongation_pct
+T01,Al-6061,A,245,310,13.5
+T02,Al-6061,A,238,302,11.8
+T03,Al-6061,B,252,318,14.2
+T04,Al-6061,B,,315,13.1
+T05,Steel-Q,C,520,650,16.0
+T06,Steel-Q,C,535,670,14.5
+T07,Steel-Q,D,510,640,12.0
+T08,Steel-Q,D,528,,15.2
+T09,Steel-Q,D,518,655,13.8
