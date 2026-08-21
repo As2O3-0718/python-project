@@ -1,0 +1,7 @@
+sample_id,temperature_c,diffusion_coefficient_m2_s
+D01,700,2.40e-13
+D02,750,5.50e-13
+D03,800,1.42e-12
+D04,850,2.75e-12
+D05,900,6.20e-12
+D06,950,1.05e-11
